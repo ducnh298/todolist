@@ -1,0 +1,4 @@
+entity\TodoEntity.class
+entity\CategoryEntity.class
+entity\UserEntity.class
+entity\BaseEntity.class
